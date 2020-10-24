@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Writero';
+    src: url('Writero.eot');
+    src: local('Writero'),
+        url('Writero.eot?#iefix') format('embedded-opentype'),
+        url('Writero.woff2') format('woff2'),
+        url('Writero.woff') format('woff'),
+        url('Writero.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

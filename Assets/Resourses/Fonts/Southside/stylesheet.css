@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SOUTHSIDE';
+    src: url('SOUTHSIDE.eot');
+    src: local('SOUTHSIDE'),
+        url('SOUTHSIDE.eot?#iefix') format('embedded-opentype'),
+        url('SOUTHSIDE.woff2') format('woff2'),
+        url('SOUTHSIDE.woff') format('woff'),
+        url('SOUTHSIDE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ornament';
+    src: url('ornament.eot');
+    src: local('ornament'),
+        url('ornament.eot?#iefix') format('embedded-opentype'),
+        url('ornament.woff2') format('woff2'),
+        url('ornament.woff') format('woff'),
+        url('ornament.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
